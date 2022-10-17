@@ -34,3 +34,11 @@ git diff
 
 git diff --staged
 ```
+
+Чтобы удалить каталог из гита, который уже был добавлен и находится на гитхабе
+
+```
+git rm folder_name
+git commit -m 'remove folder_name'
+git push
+```

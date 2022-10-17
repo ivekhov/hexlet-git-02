@@ -1,1 +1,1 @@
-git is awesome
+Checking INFO.md file
