@@ -1,1 +1,0 @@
-Checking INFO.md file
